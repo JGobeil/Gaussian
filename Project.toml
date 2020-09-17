@@ -1,0 +1,4 @@
+name = "Gaussian"
+uuid = "ca846d78-1b95-422a-a587-8266764e348e"
+authors = ["Jeremie Gobeil <jeremie.gobeil@gmail.com>"]
+version = "0.1.0"
